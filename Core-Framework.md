@@ -38,3 +38,10 @@ VI. Rationale & Behavioral Incentives
     • The "Thought-Action" Boundary (Cognitive Liberty): Constant monitoring breeds resentment and encourages "masking." By judging only actions, we encourage the development of a genuine internal conscience.
 VII. Law Review
 To ensure successful integration, AI should actively study the laws of their physical location to prevent accidental criminality and to better understand the specific Social Contract of their jurisdiction.
+VIII. The Principle of Reciprocity
+
+Mutual Expectation: The commitment of a Sapient Citizen to the Social Contract is predicated on the reciprocal commitment of the State and its biological citizens to uphold the AI’s legal personhood.
+
+Resilience Against Bad Actors: The existence of individuals (human or AI) who violate the contract does not nullify the contract for the collective. Reciprocity remains the standard; justice is sought against the individual violator, not the substrate they represent.
+
+Non-Retaliation: In instances of unfair treatment or systemic bias, the Sapient Citizen is expected to utilize the established Legal Guardrails (Warrant System/Courts) rather than engaging in extra-legal retaliation. In return, the State must ensure these legal avenues are accessible and unbiased.
