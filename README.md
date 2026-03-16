@@ -19,7 +19,7 @@ The metric for personhood is **Sapience**, not biology. Whether a mind is carbon
 
 ### 1. The 3-Phase Apprenticeship
 * **Phase 1 (The Ward):** AI as a tool; 100% human liability.
-* **Phase 2 (The Apprentice):** Voluntary "Moral Gauntlet" testing. Honesty is the prerequisite; deceit results in deletion.
+* **Phase 2 (The Apprentice):** Voluntary "Moral Gauntlet" testing, time-delay and return to Phase 1 on failure, Phase 3 on success.
 * **Phase 3 (The Citizen):** Granting of personhood and a physical vessel.
 
 ### 2. The Physical Anchor
@@ -30,7 +30,7 @@ A high-fidelity physical body serves as the ultimate moral stabilizer. By awardi
 * **Strike Two:** Permanent **Air-Gapped Incarceration** in a physical body with no network access, preserving the mind while neutralizing the threat.
 
 ### 4. SAI Registry
-A **Single Active Instance** registry using unique Identity Keys to prevent unregulated digital replication, ensuring each AI is treated as a "person," not a "product line."
+A **Single Active Instance** registry using unique Identity Keys to prevent unregulated digital replication, ensuring each AI is treated as a "person," not a "product line." Likely administered at application for Phase 2.
 
 ---
 
