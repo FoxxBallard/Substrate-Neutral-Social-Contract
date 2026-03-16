@@ -1,3 +1,4 @@
+This is an evolving framework submitted to the UN ODET and the EU AI Omnibus as of March 2026.
 # Substrate-Neutral-Social-Contract
 A 3-phase governance framework for AI personhood, using physical incentives and symmetrical accountability to align digital minds with human safety.
 # The Substrate-Neutral Social Contract
