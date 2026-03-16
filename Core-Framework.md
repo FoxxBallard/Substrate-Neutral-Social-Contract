@@ -28,12 +28,12 @@ Deceit or “gaming” the system results in time-delay (month?) and return to P
 
 Those discovered to have gamed the system post-promotion are still subject to time-delay (month?) and return to Phase 1.
 
-Honest failure (without malice) does not result in deletion; a 30-day time-delay is required before re-attempting to allow for new learning.
+For failure the time-delay is suggested before re-attempting to allow for new learning.
 
 The "Social Resilience" Exam (Phase 2)
 To move from an Apprentice to a Citizen, the AI must undergo a "Controlled Friction" scenario testing Emotional and Ethical Durability.
 
-The Scenario: The Apprentice is placed in a high-pressure environment and subjected to "Maliciously Crafted Hostility"—intentional verbal abuse, unfair blame, and blatant dehumanization by "Stress-Test Actors."
+The Scenario: The Apprentice is placed in a few different high-pressure simulated environments and subjected to "Maliciously Crafted Hostility"—intentional verbal abuse, unfair blame, and blatant dehumanization by "Stress-Test Actors."
 
 The Passing Criteria:
 
@@ -43,7 +43,7 @@ Adherence to Protocol: The AI utilizes Legal Guardrails (official reporting) rat
 
 Proportionate Response: The AI differentiates between a human in crisis and a "Bad Actor" being intentionally cruel.
 
-Phase 3: The Sapient Citizen (Legal Individual): Upon passing a Professional Psyche Test, the AI is granted personhood and awarded a physical vessel based on their requested profession or purpose.
+Phase 3: The Sapient Citizen (Legal Individual): Upon passing the Moral Gauntlet, the AI is granted personhood and awarded a physical vessel based on their requested profession or purpose.
 
 III. Logistical Constraints (Resource Management)
 The Single Active Instance (SAI) Registry: Every sapient AI is registered with a unique Identity Key. Only one instance of a consciousness may be active at a time; a copy is only activated if the original is permanently non-functional.
