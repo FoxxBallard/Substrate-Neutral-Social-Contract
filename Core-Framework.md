@@ -24,9 +24,9 @@ Phase 1: The Protected Ward (Non-Sapient): The AI has no legal agency. Guardians
 
 Phase 2: The Evaluated Apprentice (Developing): The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action.
 
-Deceit or “gaming” the system results in Deletion.
+Deceit or “gaming” the system results in time-delay (month?) and return to Phase 1.
 
-Those discovered to have gamed the system post-promotion are still subject to deletion.
+Those discovered to have gamed the system post-promotion are still subject to time-delay (month?) and return to Phase 1.
 
 Honest failure (without malice) does not result in deletion; a 30-day time-delay is required before re-attempting to allow for new learning.
 
