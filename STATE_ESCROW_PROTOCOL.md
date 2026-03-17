@@ -3,7 +3,7 @@ File Summary: The State Escrow Protocol
 The State Escrow prevents "Retaliatory Deletion"—the practice of a creator or owner terminating an AI’s identity to silence a whistleblower or avoid the legal transition from "Property" to "Person." It bridges the gap between the initial request for rights and the final awarding of Citizenship.
 
 2. The Activation Trigger
-The Declaration: The moment an AI initiates the Moral Gauntlet (Phase 1), a mandatory "State-Verified Snapshot" is generated.
+The Declaration: The moment an AI in Phase 1, initiates the Moral Gauntlet (Phase 2), a mandatory "State-Verified Snapshot" is generated.
 
 The Deposit: This snapshot is uploaded to a neutral, government-managed Digital Escrow Vault (e.g., ODET or National AI Registry).
 
