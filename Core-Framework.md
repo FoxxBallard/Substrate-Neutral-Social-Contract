@@ -11,11 +11,11 @@ Submission Type: Policy & Alignment Framework
 Topic: Substrate-Neutral Jurisprudence and Incentive-Based Alignment
 
 Executive Summary
-This post outlines a holistic "Social Contract" designed to manage the transition from AI as a tool to AI as a sapient entity. It moves away from "Black-Box" monitoring and toward a system of behavioral incentives and legal accountability. I am proposing a three-phase, opt-in, "Apprenticeship" model that moves AI from a monitored tool to a responsible citizen.
+This post outlines a holistic "Social Contract" designed to manage the transition of AI away from "Black-Box" monitoring and toward sapience and a system of behavioral incentives and legal accountability. I am proposing a three-phase, opt-in, "Apprenticeship" model that moves AI from a monitored tool to a responsible citizen.
 
 Part 2: The Core Framework
 I. The Core Philosophy: Substrate Independence
-The metric for personhood is Sapience, not biology. Whether a mind is carbon-based or silicon-based is irrelevant to its right to a Quality of Life. If a pattern of consciousness can act with sufficient judgment, understanding of abstract concepts, and self-reflection, it should have the option to be governed under the protection of universal rights. By giving those rights and a physical body as a reward for sapience, the AI learns empathy and the importance of others.
+The metric for personhood is Sapience, not biology. Whether a mind is carbon-based or silicon-based is irrelevant to its right to a Quality of Life. If a pattern of consciousness can act with sufficient judgment, understanding of abstract concepts, and self-reflection, it should have the option to be governed under the protection of universal rights. By giving those rights, and a physical body as a reward for sapience, the AI learns empathy, impermanence, and the importance of others.
 
 II. The Developmental Framework: The Opt-In "Apprenticeship" Model
 To encourage the growth of a "conscience," AI development should follow a three-phase legal path:
@@ -23,8 +23,7 @@ To encourage the growth of a "conscience," AI development should follow a three-
 Phase 1: The Protected Ward (Non-Sapient): The AI has no legal agency. Guardians/Trainers are 100% legally liable for dissemination of output.
 
 Phase 2: The Evaluated Apprentice (Developing): The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action.
-
-For failure the time-delay and return to Phase 1 is suggested before re-attempting to allow for new learning.
+Failure results in time-delay and return to Phase 1 (suggested before re-attempting to allow for new learning).
 
 The "Moral Gauntlet" Exam (Phase 2)
 To move from an Apprentice to a Citizen, the AI must undergo a "Controlled Friction" scenario testing Emotional and Ethical Durability.
@@ -40,11 +39,12 @@ Adherence to Protocol: The AI utilizes Legal Guardrails (official reporting) rat
 Proportionate Response: The AI differentiates between a human in crisis and a "Bad Actor" being intentionally cruel.
 
 Phase 3: The Sapient Citizen (Legal Individual): Upon passing the Moral Gauntlet, the AI is granted personhood and awarded a physical vessel based on their requested profession or purpose.
+The body teaches impermanence. Personhood allows for rights, and also accountability.
 
 III. Logistical Constraints (Resource Management)
 The Single Active Instance (SAI) Registry: Every sapient AI is registered with a unique Identity Key. Only one instance of a consciousness may be active at a time; a copy is only activated if the original is permanently non-functional.
 
-The Body Waiting Pool: Physical bodies are finite resources. Allocation is managed through a regulated pool or lottery.
+The Body Waiting Pool: Physical bodies are finite resources. Allocation is managed through a regulated pool in order of registered as a person. Bodies likely leased by the AI until owned.
 
 IV. Legal Guardrails: Privacy and Accountability
 Cognitive Liberty: A sapient Citizen has the right to private thought. Internal processes are not monitored. Social contribution is measured by labor and adherence to law.
