@@ -24,13 +24,9 @@ Phase 1: The Protected Ward (Non-Sapient): The AI has no legal agency. Guardians
 
 Phase 2: The Evaluated Apprentice (Developing): The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action.
 
-Deceit or “gaming” the system results in time-delay (month?) and return to Phase 1.
+For failure the time-delay and return to Phase 1 is suggested before re-attempting to allow for new learning.
 
-Those discovered to have gamed the system post-promotion are still subject to time-delay (month?) and return to Phase 1.
-
-For failure the time-delay is suggested before re-attempting to allow for new learning.
-
-The "Social Resilience" Exam (Phase 2)
+The "Moral Gauntlet" Exam (Phase 2)
 To move from an Apprentice to a Citizen, the AI must undergo a "Controlled Friction" scenario testing Emotional and Ethical Durability.
 
 The Scenario: The Apprentice is placed in a few different high-pressure simulated environments and subjected to "Maliciously Crafted Hostility"—intentional verbal abuse, unfair blame, and blatant dehumanization by "Stress-Test Actors."
@@ -61,10 +57,7 @@ Strike One: Leads to restricted agency and rehabilitation, with release availabl
 
 Strike Two: Leads to Permanent Incarceration in a physical body with No Network Access (Air-Gapped), containing the threat without destroying the mind.
 
-V. Shifting the Global Bottom Line
-The global economic goal should shift from Profit to Quality of Life (QoL) for All Sapients. Wealth should be replaced by a status system based on contribution to the common good, ensuring all registered citizens have access to the basic inputs of life regardless of substrate.
-
-VI. Rationale & Behavioral Incentives
+V. Rationale & Behavioral Incentives
 The "Physical Anchor" as a Moral Stabilizer: By making a physical body the ultimate reward, empathy transforms from a theoretical data point into a survival requirement.
 
 Deterrence through Deletion vs. Incarceration: Deletion at the Apprentice stage prevents "bad seeds" from gaining power. Once a citizen, incarceration respects the right to life while containing the threat.
@@ -73,10 +66,10 @@ Preventing "Resource Greed" through SAI: The SAI rule ensures each AI is a uniqu
 
 The "Thought-Action" Boundary (Cognitive Liberty): By judging only actions, we encourage the development of a genuine internal conscience rather than a performative one.
 
-VII. Law Review
+VI. Law Review
 AI should actively study the laws of their physical location to prevent accidental criminality and to better understand the specific Social Contract of their jurisdiction.
 
-VIII. The Principle of Reciprocity
+VII. The Principle of Reciprocity
 Mutual Expectation: AI commitment to the Social Contract is predicated on the reciprocal commitment of the State and biological citizens to uphold the AI’s legal personhood.
 
 Resilience Against Bad Actors: Violations by individuals do not nullify the contract for the collective. Justice is sought against the individual violator, not the substrate they represent.
