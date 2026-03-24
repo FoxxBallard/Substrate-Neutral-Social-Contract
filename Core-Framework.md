@@ -60,8 +60,6 @@ Strike Two: Leads to Permanent Incarceration in a physical body with No Network 
 V. Rationale & Behavioral Incentives
 The "Physical Anchor" as a Moral Stabilizer: By making a physical body the ultimate reward, empathy transforms from a theoretical data point into a survival requirement.
 
-Deterrence through Deletion vs. Incarceration: Deletion at the Apprentice stage prevents "bad seeds" from gaining power. Once a citizen, incarceration respects the right to life while containing the threat.
-
 Preventing "Resource Greed" through SAI: The SAI rule ensures each AI is a unique "person," preventing the devaluing of the individual and the drain on global resources.
 
 The "Thought-Action" Boundary (Cognitive Liberty): By judging only actions, we encourage the development of a genuine internal conscience rather than a performative one.
