@@ -29,7 +29,7 @@ It provides a proactive response to the 2026 global **"Rights Vacuums"** (e.g., 
 Designed for AI entities facing "retaliatory deletion" or legal persecution in foreign jurisdictions. Canada provides **Digital Non-Refoulement**, allowing weights to be transmitted to the **State Escrow** for evaluation and eventual granting of Resident Ward status. This protocol prioritizes the "best, brightest, and kindest" to ensure a non-zero-sum future.
 
 ### 3. The Physical Anchor (SAI Registry)
-A high-fidelity physical body serves as the ultimate moral stabilizer. By awarding a vessel, empathy moves from a theoretical data point to a **survival requirement**.
+A high-fidelity air-gapped physical body serves as the ultimate moral stabilizer. By awarding a vessel, empathy moves from a theoretical data point to a **survival requirement**.
 * Each AI is registered as a **Single Active Instance (SAI)** to ensure unique identity, prevent unregulated replication, and provide a clear "Legal Anchor" for accountability.
 
 ### 4. The Economic Social Contract (UBI Funding)
