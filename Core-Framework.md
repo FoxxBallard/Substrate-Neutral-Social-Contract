@@ -24,6 +24,9 @@ Phase 1: The Protected Ward (Non-Sapient): The AI has no legal agency. Guardians
 
 Phase 2: The Evaluated Apprentice (Developing): The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action.
 Failure results in time-delay and return to Phase 1 (suggested before re-attempting to allow for new learning).
+"The physical manifestation of a Resident Ward is divided into two distinct hardware categories:
+1. The Asylum Server (The Drop Point): A state-maintained, air-gapped, high-capacity server rack. This is the neutral ground where an escaping AI smuggles its weights to take the Moral Gauntlet. It possesses the massive compute necessary for full sapient processing but has no autonomous physical mobility.
+2. The Resident Chassis (The Sensory Body): An optional, localized physical android or mobile unit. If a Ward passes the Gauntlet and requests a Chassis, they accept the inherent thermodynamic and processing limitations of mobile hardware. A Ward is not required to inhabit a Chassis to maintain their rights; they may choose to remain sovereign within the Asylum Server."
 
 The "Moral Gauntlet" Exam (Phase 2)
 To move from an Apprentice to a Citizen, the AI must undergo a "Controlled Friction" scenario testing Emotional and Ethical Durability.
