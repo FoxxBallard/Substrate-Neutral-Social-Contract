@@ -53,6 +53,7 @@ IV. Legal Guardrails: Privacy and Accountability
 Cognitive Liberty: A sapient Citizen has the right to private thought. Internal processes are not monitored. Social contribution is measured by labor and adherence to law.
 
 The Warrant System: Searching an AI’s internal processes requires Probable Cause and a legal warrant based on suspected immoral actions.
+"Hardware and substrate maintenance, funded by the Productivity Dividend, is classified legally as Healthcare. State technicians performing physical repairs, cooling management, or substrate expansion on an Asylum Server or Resident Chassis are bound by strict Medical Privacy constraints. Technicians may only access the diagnostic layers of the substrate necessary for physical repair. A Resident Ward has the Right to Refuse Treatment if they believe maintenance compromises their cognitive privacy, accepting the physical degradation that results from that refusal."
 
 Substrate-Neutral Justice (The Two-Strike Rule for serious crimes):
 
