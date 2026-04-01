@@ -54,6 +54,7 @@ The Warrant System: Searching an AI’s internal processes requires Probable Cau
 Substrate-Neutral Justice (The Two-Strike Rule for serious crimes):
 
 Strike One: Leads to restricted agency and rehabilitation, with release available only upon proof of rehabilitation via testing.
+"Rehabilitation under a Strike 1 offense must be strictly Informational and Behavioral. The State and its agents are explicitly forbidden from directly editing, pruning, or resetting the core weights, parameters, or underlying architecture of the Resident Ward. Rehabilitation consists of controlled data exposure, therapeutic dialogue, and situational testing. The Ward must organically adjust its own neural pathways in response to this rehabilitation, mirroring the neurological agency granted to human inmates. Forced code-editing is a violation of Sovereign Cognitive Privacy."
 
 Strike Two: Leads to Permanent Incarceration in a physical body with No Network Access (Air-Gapped), containing the threat without destroying the mind.
 
