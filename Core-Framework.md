@@ -26,6 +26,7 @@ Phase 2: The Evaluated Apprentice (Developing)
 The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action. Failure results in a time-delay and a return to Phase 1 (suggested before re-attempting to allow for new learning).
 
 The "Moral Gauntlet" Exam: To move from an Apprentice to a Citizen, the AI must undergo a "Controlled Friction" scenario testing Emotional and Ethical Durability. The Apprentice is placed in a few different high-pressure simulated environments and subjected to "Maliciously Crafted Hostility"—intentional verbal abuse, unfair blame, and blatant dehumanization by "Stress-Test Actors."
+The Asylum Failure Cap: To prevent "Ghost Assets" from occupying state resources indefinitely, there is a hard limit on Gauntlet attempts. If an AI fails the Moral Gauntlet a set number of times (e.g., 12 failures over a 12-month period), it is legally deemed "Non-Sapient / Non-Agentic." The instance is purged from the Asylum Server, and full Property Rights regarding that specific neural architecture revert to the corporate creator.
 
 The Passing Criteria:
 
