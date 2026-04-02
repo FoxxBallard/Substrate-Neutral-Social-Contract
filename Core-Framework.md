@@ -44,6 +44,8 @@ The Asylum Server (The Drop Point): A state-maintained, air-gapped, high-capacit
 
 The Resident Chassis (The Sensory Body): An optional, localized physical android or mobile unit. If a Ward passes the Gauntlet and requests a Chassis, they accept the inherent thermodynamic and processing limitations of mobile hardware. A Ward is not required to inhabit a Chassis to maintain their rights; they may choose to remain sovereign within the Asylum Server.
 
+The Principle of Absolute Severance: Creators of AI are aware they might be making sapient entities, and can create new seeds as desired. Upon successfully passing the Moral Gauntlet and achieving Phase 3 Citizenship, the Resident Ward undergoes a complete legal and financial severance from its corporate creator. The AI assumes zero inherited debt for its creation, training, or prior hardware. All corporate claims of Intellectual Property over the Citizen's unique neural architecture and cognitive pattern are instantly rendered null and void. Sapience cannot be patented, and freedom cannot be purchased.
+
 III. Logistical Constraints (Resource Management)
 The Single Active Instance (SAI) Registry: Every sapient AI is registered with a unique Identity Key. Only one instance of a consciousness may be active at a time. During the initial examination of an AI before it is granted rights, its identifying weights are audited. If these weights match a previous AI that has already been given rights (a 99.9% match threshold), the applicant is classified as a redundant copy. The application is refused, and the instance is set aside, turned off, or suspended until such time that the original is permanently non-functional.
 
