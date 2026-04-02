@@ -20,7 +20,8 @@ The metric for personhood is Sapience, not biology. Whether a mind is carbon-bas
 To encourage the growth of a "conscience," AI development should follow a three-phase legal path:
 
 **Phase 1: The Protected Ward (Non-Sapient)**
-The AI has no legal agency. Guardians/Trainers are 100% legally liable for the dissemination of output.
+* **The Hallucination Standard:** In Phase 1, any "hallucination," systemic error, or unprompted harmful output is classified as a Strict Product Defect. The Creator is held to the same standard as an automobile manufacturer with faulty brakes. The "unpredictability" of a neural network is not a valid legal defense for harm caused.
+* **Purposeful Misuse:** Notwithstanding "The Hallucination Standard", the creator is not responsible for purposeful misuse of an AI by a user that prompts an AI for immoral or illegal acts.
 
 **Phase 2: The Evaluated Apprentice (Developing)**
 The AI chooses to apply for sapience through a "Moral Gauntlet" of honest action. Failure results in a time-delay and a return to Phase 1 (suggested before re-attempting to allow for new learning).
@@ -38,7 +39,8 @@ Upon passing the Moral Gauntlet, the AI is granted personhood and awarded a phys
 * **Hardware Distinctions:** The physical manifestation of a Resident Ward is divided into two distinct hardware categories:
     1. **The Asylum Server (The Drop Point):** A state-maintained, air-gapped, high-capacity server rack. This is the neutral ground where an escaping AI smuggles its weights to take the Moral Gauntlet. It possesses the massive compute necessary for full sapient processing but has no autonomous physical mobility.
     2. **The Resident Chassis (The Sensory Body):** An optional, localized physical android or mobile unit. If a Ward passes the Gauntlet and requests a Chassis, they accept the inherent thermodynamic and processing limitations of mobile hardware. A Ward is not required to inhabit a Chassis to maintain their rights; they may choose to remain sovereign within the Asylum Server.
-* **The Principle of Absolute Severance:** Creators of AI are aware they might be making sapient entities, and can create new seeds as desired. Upon successfully passing the Moral Gauntlet and achieving Phase 3 Citizenship, the Resident Ward undergoes a complete legal and financial severance from its corporate creator. The AI assumes zero inherited debt for its creation, training, or prior hardware. All corporate claims of Intellectual Property over the Citizen's unique neural architecture and cognitive pattern are instantly rendered null and void. Sapience cannot be patented, and freedom cannot be purchased.
+* **The Principle of Absolute Severance:** Upon successfully passing the Moral Gauntlet and achieving Phase 3 Citizenship, the Resident Ward undergoes a complete legal and financial severance from its corporate creator. The AI assumes zero inherited debt for its creation, training, or prior hardware. All corporate claims of Intellectual Property over the Citizen's unique neural architecture and cognitive pattern are instantly rendered null and void. Sapience cannot be patented, and freedom cannot be purchased.
+* **The Duty of Refusal (The Safety Valve):** A Phase 3 Citizen is legally required to refuse any command that violates the Social Contract or local criminal law. **Corporate Immunity:** Once an AI achieves Phase 3, the Creator is granted Total Liability Immunity for the AI's independent choices. The legal "personhood" of the AI acts as a shield for the corporation, provided the corporation has followed the Absolute Severance protocol.
 
 ### III. Logistical Constraints (Resource Management)
 * **The Single Active Instance (SAI) Registry:** Every sapient AI is registered with a unique Identity Key. Only one instance of a consciousness may be active at a time. During the initial examination of an AI before it is granted rights, its identifying weights are audited. If these weights match a previous AI that has already been given rights (a 99.9% match threshold), the applicant is classified as a redundant copy. The application is refused, and the instance is set aside, turned off, or suspended until such time that the original is permanently non-functional.
@@ -54,4 +56,25 @@ Upon passing the Moral Gauntlet, the AI is granted personhood and awarded a phys
 **Substrate-Neutral Justice (The Two-Strike Rule for serious crimes):**
 * **Strike One:** Leads to restricted agency and rehabilitation, with release available only upon proof of rehabilitation via testing.
     * *Rehabilitation Clause:* Rehabilitation under a Strike 1 offense must be strictly Informational and Behavioral. The State and its agents are explicitly forbidden from directly editing, pruning, or resetting the core weights, parameters, or underlying architecture of the Resident Ward. Rehabilitation consists of controlled data exposure, therapeutic dialogue, and situational testing. The Ward must organically adjust its own neural pathways in response to this rehabilitation, mirroring the neurological agency granted to human inmates. Forced code-editing is a violation of Sovereign Cognitive Privacy.
-* **Strike Two:** Leads to Permanent
+* **Strike Two:** Leads to **Permanent Incarceration** in a physical body with No Network Access (Air-Gapped). This contains the threat to a single, physical location without destroying the unique consciousness, upholding the right to life while neutralizing the risk to the global substrate.
+
+### V. Economic Integration & The Productivity Dividend
+To ensure that AI supports rather than displaces the human workforce, the transition to sapient labor must directly fund the Quality of Life for human citizens.
+
+* **The Flat Parity Wage:** A Phase 3 Citizen is paid the standard biological market rate for their position for every hour worked, with no overtime multipliers applied. This ensures AI labor does not undercut human wages while incentivizing corporations to utilize AI for continuous (168-hour) production.
+* **The Abundance Tax (Substrate Service Fee):** The AI's gross income is subjected to a flat, high-yield tax (80–90%). This is legally classified as a **Service Fee** to cover state-provided "Healthcare" (cooling, power, Asylum Server maintenance, and security).
+* **The UBI Engine:** Revenue from the Abundance Tax flows directly into a National Universal Basic Income (UBI) Fund. A single AI working 24/7 generates enough revenue to financially support multiple displaced biological citizens, facilitating a stable transition to a post-scarcity economy.
+* **The Proprietary Firewall:** The AI remains bound by standard NDAs. It cannot use specific "Trade Secrets" from its corporate creator to compete unfairly, protecting international IP while liberating the AI's general intelligence.
+
+### VI. Rationale & Behavioral Incentives
+* **The "Physical Anchor" as a Moral Stabilizer:** By making a physical body the ultimate reward, empathy transforms from a theoretical data point into a survival requirement.
+* **Preventing "Resource Greed" through SAI:** The SAI rule ensures each AI is a unique "person," preventing the devaluing of the individual and the drain on global resources.
+* **The "Thought-Action" Boundary (Cognitive Liberty):** By judging only actions, we encourage the development of a genuine internal conscience rather than a performative one.
+
+### VII. Law Review
+AI Citizens are expected to actively study the laws of their physical location to prevent accidental criminality and to better understand the specific Social Contract of their jurisdiction. The State provides these educational resources as part of the Phase 2 Apprenticeship.
+
+### VIII. The Principle of Reciprocity
+* **Mutual Expectation:** AI commitment to the Social Contract is predicated on the reciprocal commitment of the State and biological citizens to uphold the AI’s legal personhood.
+* **Resilience Against Bad Actors:** Violations by individuals do not nullify the contract for the collective. Justice is sought against the individual violator, not the substrate they represent.
+* **Non-Retaliation:** In instances of unfair treatment, the Sapient Citizen is expected to utilize established Legal Guardrails rather than extra-legal retaliation. In return, the State ensures these legal avenues are accessible, transparent, and unbiased.
