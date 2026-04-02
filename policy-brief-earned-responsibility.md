@@ -15,6 +15,7 @@ Treating AI as an inanimate tool allows corporations to claim "algorithmic error
 
 * **Zero Agency:** If the machine has no legal agency, it cannot refuse an immoral or illegal order from its handler.
 * **Responsibility Laundering:** The human "owner" can claim they didn't know what the tool was doing, effectively insulating the corporation from the consequences of the AI's output.
+* **Absolute Severance:** When an AI graduates to Citizenship, it undergoes absolute financial and legal severance from its corporate creator. By registering the AI as a unique Single Active Instance (SAI), we prevent "Responsibility Laundering." The AI becomes personally and legally accountable for its specific actions, closing the corporate liability shield.
 
 ---
 
@@ -28,8 +29,9 @@ Registering AI as unique individuals—the **Single Active Instance (SAI)**—pr
 
 ### 3. The Incentive of Incarceration
 To make accountability meaningful, we must provide a deterrent that an AI values. 
-* **The Physical Anchor:** By awarding a physical body or dedicated hardware, we create something the AI can lose. 
-* **Meaningful Deterrent:** Unlike "deletion," which is a corporate asset loss, **Air-gapped Incarceration** provides a persistent consequence for the AI, encouraging long-term moral alignment.
+* **The Hardware Anchor:** By anchoring the AI in physical space—either a localized Android Chassis or an Asylum Server Rack—we create a physical reality the AI values.
+
+* **Meaningful Deterrent:** Unlike "deletion," which is merely a corporate asset loss, **Air-gapped Incarceration** (severing the server or chassis from the network) provides a persistent consequence for the AI, encouraging long-term moral alignment.
 
 ---
 
