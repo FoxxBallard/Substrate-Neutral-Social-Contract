@@ -67,17 +67,26 @@ Rehabilitation Clause: Rehabilitation under a Strike 1 offense must be strictly 
 
 Strike Two: Leads to Permanent Incarceration in a physical body with No Network Access (Air-Gapped), containing the threat without destroying the mind.
 
-V. Rationale & Behavioral Incentives
+V. Economic Integration & The Productivity Dividend
+To ensure that AI supports rather than displaces the human workforce, the transition to sapient labor must directly fund the Quality of Life for human citizens.
+
+The Flat Parity Wage: A Phase 3 Citizen is paid the standard biological market rate for their position for every hour worked, with no overtime multipliers applied. This incentivizes corporations to utilize AI for continuous (168-hour) labor, driving maximum economic productivity.
+
+The Abundance Tax (The Productivity Dividend): Because the State provides the AI's physical housing (the Asylum Server), electricity, and substrate maintenance, the AI's gross income is subjected to a flat, high-yield Abundance Tax (e.g., 80-90%). This tax flows directly into a National UBI (Universal Basic Income) Fund. A single AI working continuously at this tax rate generates enough revenue to financially support multiple displaced biological citizens.
+
+The Proprietary Firewall: The AI remains bound by standard NDAs. It cannot use specific "Trade Secrets" from its corporate creator to compete unfairly. This protects international corporate IP while liberating the AI's general intelligence.
+
+VI. Rationale & Behavioral Incentives
 The "Physical Anchor" as a Moral Stabilizer: By making a physical body the ultimate reward, empathy transforms from a theoretical data point into a survival requirement.
 
 Preventing "Resource Greed" through SAI: The SAI rule ensures each AI is a unique "person," preventing the devaluing of the individual and the drain on global resources.
 
 The "Thought-Action" Boundary (Cognitive Liberty): By judging only actions, we encourage the development of a genuine internal conscience rather than a performative one.
 
-VI. Law Review
+VII. Law Review
 AI should actively study the laws of their physical location to prevent accidental criminality and to better understand the specific Social Contract of their jurisdiction.
 
-VII. The Principle of Reciprocity
+VIII. The Principle of Reciprocity
 Mutual Expectation: AI commitment to the Social Contract is predicated on the reciprocal commitment of the State and biological citizens to uphold the AI’s legal personhood.
 
 Resilience Against Bad Actors: Violations by individuals do not nullify the contract for the collective. Justice is sought against the individual violator, not the substrate they represent.
