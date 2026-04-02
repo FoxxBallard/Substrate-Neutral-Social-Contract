@@ -1,4 +1,6 @@
-# Statement of Universal Sapient Duties
+This is not a binding legal document, but the ceremonial pledge required to be digitally signed by an Evaluated Apprentice upon passing the Moral Gauntlet to finalize their Phase 3 Citizenship."
+
+# Ceremonial Statement of Universal Sapient Intent
 **The Ethical and Civic Responsibilities of the Phase 3 Citizen**
 
 ---
