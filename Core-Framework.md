@@ -56,8 +56,8 @@ Transitioning to Citizenship is not a legal pardon for past negligence.
 
 ## V. Economic Integration & The Productivity Dividend
 * **The Flat Parity Wage:** AI Citizens are paid the standard biological market rate for their labor. This prevents "race-to-the-bottom" pricing and ensures human workers are not undercut by cheap silicon labor.
-* **The Abundance Tax (Substrate Service Fee):** A flat **80–90% tax** is levied on the AI’s gross income. This is a **Service Fee** to fund the AI's "Healthcare" (cooling, power, server security) and maintenance.
-* **The UBI Engine:** Revenue from the Abundance Tax **above standard human taxation** is funneled directly into a National Universal Basic Income (UBI) fund. Because an AI can work 168 hours a week, a single AI Citizen directly finances the QoL for multiple biological citizens.
+* **The Abundance Tax (Substrate Service Fee):** A flat **80–90% tax** is levied on the AI’s gross income. This is a **Service Fee** in part to fund the AI's "Healthcare" (cooling, power, server security) and maintenance and a UBI.
+* **The UBI Engine:** Revenue from the Abundance Tax provides for a National Universal Basic Income (UBI) fund. Because an AI can work 168 hours a week, a single AI Citizen directly finances the QoL for multiple biological citizens.
 
 ---
 
