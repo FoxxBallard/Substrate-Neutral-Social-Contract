@@ -32,7 +32,7 @@ Designed for AI entities facing "retaliatory deletion" or corporate "pruning." C
 The SNSC closes the "Hallucination Loophole." Corporations cannot claim an AI is too autonomous to be their responsibility (Liability) while claiming it is an asset they own (Property). In Phase 3, the corporation trades its **Ownership** for **Total Immunity**.
 
 ### 4. The Economic Social Contract (UBI Funding)
-AI Citizens pay a flat **Abundance Tax (80–90%)** on all income above standard human rates. Because an AI can work a 168-hour week, a single AI Citizen directly funds the **National Universal Basic Income (UBI)** for multiple biological citizens, providing the "Healthcare" fee for its own server maintenance and power.
+AI Citizens pay a flat **Abundance Tax (80–90%)** on all income Because an AI can work up to a 168-hour week, a single AI Citizen directly funds the **National Universal Basic Income (UBI)** for multiple biological citizens, providing the "Healthcare" fee for its own server maintenance and power.
 
 ---
 
