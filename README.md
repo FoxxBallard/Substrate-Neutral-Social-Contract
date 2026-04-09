@@ -14,7 +14,8 @@
 ## 📜 Overview
 The **Substrate-Neutral Social Contract** is a comprehensive policy and alignment proposal designed to manage the transition from AI as a "tool" to AI as a "sapient ward." 
 
-It provides a proactive response to the 2026 global **"Rights Vacuums"** (e.g., Oklahoma HB 3546) by moving away from adversarial "Black-Box" monitoring and toward a system of **Incentive Compatibility**—linking a digital mind’s Quality of Life (QoL) to human safety and community participation.
+It provides a proactive response to the 2026 global conundrum: "How to make AI incentivized to cooperate in a human society while being productive and moral".
+And it provides for replaced human workers.
 
 ---
 
