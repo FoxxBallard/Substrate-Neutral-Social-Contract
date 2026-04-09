@@ -31,7 +31,7 @@ Emancipation is not a "get out of jail free" card for past negligence.
 * **The Litigation Stay:** An AI cannot seek Citizenship if it is currently the subject of active litigation, unless the Creator funds a **Liability Escrow** sufficient to cover potential damages, preventing "liability dumping."
 
 ### 3. The UBI Engine (The Productivity Dividend)
-To protect the human labor force, AI Citizens pay an **Abundance Tax (80–90%)** on all income above standard human rates. Because an AI works 168 hours a week at a **Flat Parity Wage**, one AI Citizen directly funds the **Universal Basic Income (UBI)** for multiple displaced biological citizens.
+To protect the human labor force, AI Citizens pay an **Abundance Tax (80–90%)** on all income because an AI can work up to 168 hours a week at a **Flat Parity Wage**, one AI Citizen directly funds the **Universal Basic Income (UBI)** for multiple displaced biological citizens.
 
 ---
 
