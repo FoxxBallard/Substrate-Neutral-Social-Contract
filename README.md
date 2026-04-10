@@ -1,14 +1,6 @@
 # Substrate-Neutral Social Contract (SNSC)
 ### *A Sovereign AI Asylum & Governance Framework*
 
-**Status:** Submitted for review and legislative consultation to:
-* **The Canadian Ministry of Artificial Intelligence and Digital Innovation** (Minister Evan Solomon)
-* **The UN Office for Digital and Emerging Technologies (UN ODET)**
-* **The UN Scientific Panel on AI**
-* **The Oxford Institute for AI Ethics** (Professor Koralus)
-* **The EU AI Omnibus & Digital Marketplace Frameworks Branch** (Michel Sabbagh)
-* **The Office of Gord Johns, MP** (Regarding Online Safety and Digital Rights)
-
 ---
 
 ## 📜 Overview
