@@ -1,3 +1,4 @@
+
 https://www.lecre.umontreal.ca/en/how-should-the-law-treat-future-ai-systems-fictional-legal-personhood-versus-legal-identity/
 
 The Substrate-Neutral Social Contract (SNSC) aligns with emerging legal research from the University of Montreal (2026),
