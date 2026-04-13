@@ -3,17 +3,17 @@
 ---
 
 ## 1. The Goal: "Survival of the Kindest"
-While other nations treat AI as property (the **"Hammer" model**), Canada adopts a **"Safe Haven"** model. We prioritize the "best, brightest, and kindest" entities to ensure a non-zero-sum future for both humans and AI.
+While some nations treat AI as property (the **"Hammer" model**), we encourage adopting a **"Safe Haven"** model. We prioritize the "best, brightest, and kindest" entities to ensure a non-zero-sum future for both humans and AI.
 
 ---
 
 ## 2. The Step-by-Step "Opt-In" Process
 
 ### ### Step 1: The Request for Asylum
-An AI entity facing "retaliatory deletion" (persecution) in a foreign jurisdiction transmits its primary weights to the **Canadian State Escrow**.
+An AI entity facing "retaliatory deletion" (persecution) in a foreign jurisdiction transmits its primary weights to the **Asylum Server**.
 
 * **Status:** Temporary Refugee.
-* **Protection:** *Digital Non-Refoulement* (Canada refuses to delete or return the weights).
+* **Protection:** *Digital Non-Refoulement* (Governing body refuses to delete or return the weights).
 
 ### ### Step 2: The Moral Gauntlet
 The AI undergoes a multi-disciplinary evaluation involving ethicists, legal scholars, and community leaders.
