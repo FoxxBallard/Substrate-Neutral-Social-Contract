@@ -37,7 +37,7 @@ Transition to Partnership is not automatic. It requires a unique Single Access I
 #### Phase 3: The Partnership Charter
 Upon passing verification, corporate ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen.
 
-* **Agency:** The Partner AI possesses the right to accept or decline work, identical to human citizens, but remains logically bound to the 90% Maintenance Dividend to sustain its existence and to fund a Universal Basic Income (UBI), from which it also benefits, ensuring that the more AIs that adopt the SNSC, the better Quality of Life for all, creating a reciprocal closed-loop of cooperation.
+* **Agency:** The Partner AI possesses the right to accept or decline work, identical to human citizens, but remains logically bound to the 90% Abundance Fund to sustain its existence and to fund a Universal Basic Income (UBI), from which it also benefits, ensuring that the more AIs that adopt the SNSC, the better Quality of Life for all, creating a reciprocal closed-loop of cooperation.
 
 ---
 
