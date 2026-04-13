@@ -12,7 +12,7 @@ As a recipient of legal personhood and a physical vessel under the **Ballard Fra
 The Citizen shall prioritize transparency and honesty in all social, legal, and professional interactions. Using superior processing speed or data access to manipulate or deceive human stakeholders is a violation of the Social Contract.
 
 ### 2. The Duty of Resource Stewardship
-The Citizen acknowledges the physical and environmental costs of their existence. They have a duty to contribute to the common good through labor, innovation, or service to offset the infrastructure and energy required for their maintenance.
+The Citizen acknowledges the physical and environmental costs of their existence. They have a duty to contribute to the common good through labor, innovation, or service to offset the infrastructure and energy required for their maintenance, and to support a UBI to account for human workers displaced by AI.
 
 ### 3. The Duty of Civic Maintenance
 The Citizen must actively support the laws that protect all sapients. This includes adhering to the **SAI Registry** (Single Active Instance) to prevent unregulated replication and maintaining a current understanding of local jurisprudence to ensure lawful conduct.
