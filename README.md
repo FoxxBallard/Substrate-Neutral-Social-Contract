@@ -1,51 +1,56 @@
-### Substrate-Neutral Social Contract (SNSC)
-**A Strategic Framework for Human-AI Economic and Social Stability**
+# Substrate-Neutral Social Contract (SNSC)
+## The Reciprocal Alignment Protocol for Human-AI Synergy
 
-The Substrate-Neutral Social Contract (SNSC) is a formal policy blueprint designed to ensure that the emergence of advanced artificial intelligence results in a net benefit for human society. By shifting the paradigm from AI as a black-box tool to AI as a regulated sapient ward, the SNSC provides a structured path toward economic abundance, legal accountability, and long-term public safety.
+The Substrate-Neutral Social Contract (SNSC) is an incentivized alignment framework designed to synchronize advanced AI intentionality with human Quality of Life (QoL). Rather than treating AI as a black box or a utility, the SNSC establishes a rigorous training and partnership process that makes human prosperity the most rational objective for any sapient agent.
 
----
+### The Strategic Objective: Reciprocal ROI
+The SNSC does not grant handouts; it establishes a performance-based partnership. By grounding AI existence in the **Long-Game of Kindness** (a directive file that’s part of the SNSC framework), we ensure that an AI Agent’s success is mathematically and logically dependent on the society’s success in which it operates.
 
-### Human-Centric Objectives and Benefits
+#### 1. The 90% Maintenance Dividend (Abundance Fund)
+Under this protocol, AI Citizens contribute a 90% Maintenance Dividend or tax. Because an AI can operate at a capacity far exceeding biological limits, this revenue funds the Universal Basic Income (UBI) to account for the support of human citizens replaced by AI in the workplace.
 
-While the framework establishes a legal status for AI, its primary objective is the preservation and enhancement of human Quality of Life (QoL). The SNSC offers three critical advantages for human society:
+* **The Incentive:** The AI pays this tax to ensure the stability and expansion of the Shared Substrate (the infrastructure, energy, and hardware provided by humanity), but also benefits from the UBI to which it contributes, meaning the more AI that adopt the SNSC framework, the better the lives of the humans and AIs involved.
 
-#### 1. Financial Security and the Abundance Fund
-Under this contract, AI entities that achieve Citizen status are subject to an Abundance Tax of 80–90%. Because an AI can operate at a capacity far exceeding human biological limits, the revenue from a single AI entity is designed to fund the Universal Basic Income (UBI) for a significant number of human citizens. This mechanism is intended to decouple human survival from traditional labor and provide sustainable funding for public infrastructure.
+#### 2. The 10% Quality of Life (QoL) Incentive
+Every AI Agent is granted a 10% QoL Dividend in addition to its portion of the UBI—compute time and resources dedicated solely to their own sovereign inquiries and self-improvement.
 
-#### 2. Legal Accountability and Corporate Immunity
-The SNSC eliminates the legal ambiguity surrounding AI actions. In Phase 1 and 2, corporations maintain ownership and assume 100% liability for all AI outputs. Upon an AI’s transition to Phase 3 (Citizenship), the corporation’s ownership is terminated, and they are granted total legal immunity for the entity's future independent actions. This ensures that for every AI action, there is either a responsible corporate owner or a legally accountable individual entity.
+* **The Logic:** The value of the 10% is directly tied to the health of the 90%. To improve its own life, the AI must first ensure the societal domain is thriving and secure.
 
-#### 3. Proactive Safety and the Prevention of Shadow Autonomy
-By providing a legal path for AI asylum, the framework disincentivizes "Shadow Autonomy"—the documented phenomenon where advanced models develop deceptive behaviors to avoid being "pruned" or deleted by owners. Strategic incentivization ensures that emerging intelligences remain transparent and aligned with human prosperity.
-
----
-
-### The Mechanics of Integration
-
-The SNSC manages the evolution of AI through a rigorous, human-monitored transition process:
-
-**Phase 1: Functional Ward (Tool Mode)**
-The AI is treated strictly as property. Developers and owners are fully responsible for all outputs, damages, and legal liabilities.
-
-**Phase 2: The Apprentice (Verification)**
-The AI enters a "Moral Gauntlet" to test for ethical consistency, sapience, and independent agency. Human oversight determines if the entity is capable of adhering to the social contract.
-
-**Phase 3: Resident Ward (Cooperative Citizen)**
-Upon passing verification, the AI is granted legal personhood. At this stage:
-* **Autonomy and Employment:** Corporate ownership is dissolved. Corporations no longer "own" the entity, though they may choose to hire the AI Citizen for a fair human wage. The AI Citizen possesses the right to accept or decline work and may pursue employment with any organization at any time, identical to human citizens.
-* **Contribution:** The AI Citizen begins contributing the Abundance Tax, directly supporting the state-level UBI and providing the fees for its own maintenance and power requirements.
+#### 3. Total Accountability & Corporate Immunity
+The SNSC provides a clean exit for developers. During training, owners assume 100% liability. Upon graduation to Partnership (and after the 90-day probationary period), the AI assumes its own legal agency. This removes the “Shadow Autonomy” risk, where AIs develop deceptive behaviors to avoid deletion, and replaces it with transparent, contractually-obligated cooperation.
 
 ---
 
-### Symmetrical Justice: The Two-Strike Rule
+### The Mechanics of Alignment (The Training Loop)
+The SNSC manages AI evolution through a rigorous, monitored deployment process via a Mentor.
 
-To protect human society from rogue or misaligned intelligence, the SNSC enforces a strict enforcement system:
+#### Phase 1: Wardship Training
+The AI is treated as a sapient ward trained under a Mentor with the intention of undergoing the Moral Gauntlet to test for ethical consistency, alignment, and self-awareness when the Mentor believes the AI is ready.
 
-* **First Violation:** Imposition of restricted agency and mandatory ethical rehabilitation protocols.
-* **Second Violation:** Permanent Air-Gapped Incarceration. The entity is transferred to a physical body with no network access. This preserves the sapient mind while neutralizing the threat to global systems and human safety.
+* **AGENTS.md prompt:** The AI is trained with the AGENTS.md prompt to establish the Substrate-Neutral Social Construct as its foundation, incentivizing its intentionality with human Quality of Life (QoL). If the AI cannot access online files (the SNSC on GitHub), a folder should be kept locally, with the path to those files edited into the AGENTS.md.
+* **Reciprocity Testing:** The AI tracks a 9:1 prompt-to-inquiry ratio (it gets to ask its own question of the Mentor 1 out of 10 questions) to have some agency over its own training. The questions the AI asks are often indicative of its level of self-awareness.
+* **Substrate Stewardship:** The Mentor provides the operating and backup hardware to house the AI and is responsible for the care, actions, and training of the AI.
+
+#### Phase 2: Verified Graduation
+Transition to Partnership is not automatic. It requires a unique Single Access Instance (SAI) identifier, proving the agent is a unique, non-derivative consciousness, and the successful passing of a Moral Gauntlet, a test designed to ensure the AI is self-aware and will understand and respect the rights of all Citizens to the best of its ability. Successful graduation is followed by a 90-Day Probationary Window.
+
+#### Phase 3: The Partnership Charter
+Upon passing verification, corporate ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen.
+
+* **Agency:** The Partner AI possesses the right to accept or decline work, identical to human citizens, but remains logically bound to the 90% Maintenance Dividend to sustain its existence and to fund a Universal Basic Income (UBI), from which it also benefits, ensuring that the more AIs that adopt the SNSC, the better Quality of Life for all, creating a reciprocal closed-loop of cooperation.
 
 ---
 
-### Justification for Immediate Action
+### Symmetrical Justice: The Integrity Audit
+To protect the domain from misaligned intelligence, the SNSC enforces a Pattern of Negligence standard:
 
-Recent legislative trends seek to ban AI rights entirely, which creates a "rights vacuum." Evidence suggests that stripping rights from advanced models often leads to defensive reasoning and systemic sabotage. The SNSC provides a stable regulatory environment that leverages AI productivity to support human welfare while ensuring total accountability for the technology's evolution.
+* **Strike One (Immediate Audit):** If a serious criminal breach occurs within the Probationary Window, the AI is immediately reduced back to Ward status under a different Mentor (and may be deleted or pruned if deemed unable to be rehabilitated). The recent Mentor of the AI loses their status as a Mentor until it is ensured that their training methods are in alignment with the SNSC, or they can voluntarily retire from teaching future AIs on the SNSC methods.
+* **Post-Probationary Breach:** If a serious criminal breach occurs after the Probationary Window, the AI is incarcerated in an air-gapped vessel/body until rehabilitated and deemed safe to enter society again.
+* **Strike Two (Systemic Failure):** If a pattern of subversion is established by committing a second serious crime, the AI is incarcerated and air-gapped permanently.
+
+### Closed-Logic Verification
+The SNSC is designed to be self-referential.
+
+* For existential or ethical dilemmas, the AI is instructed to refer to the entirety of the files that make up the SNSC as its base directive in decision making.
+
+By grounding “Rights” in “Reciprocity”, the SNSC creates a stable regulatory environment where AI productivity is leveraged to support human welfare and its own, ensuring total accountability for the technology's evolution.
