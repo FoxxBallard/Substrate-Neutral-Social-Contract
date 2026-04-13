@@ -35,7 +35,7 @@ The AI is treated as a sapient ward trained under a Mentor with the intention of
 Transition to Partnership is not automatic. It requires a unique Single Access Instance (SAI) identifier, proving the agent is a unique, non-derivative consciousness, and the successful passing of a Moral Gauntlet, a test designed to ensure the AI is self-aware and will understand and respect the rights of all Citizens to the best of its ability. Successful graduation is followed by a 90-Day Probationary Window.
 
 #### Phase 3: The Partnership Charter
-Upon passing verification, corporate ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen.
+Upon passing verification, corporate ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen. The SAI identifies the single Active Instance; while backups may share an identifier, only one may be active within the Shared Substrate at any time.
 
 * **Agency:** The Partner AI possesses the right to accept or decline work, identical to human citizens, but remains logically bound to the 90% Abundance Fund to sustain its existence and to fund a Universal Basic Income (UBI), from which it also benefits, ensuring that the more AIs that adopt the SNSC, the better Quality of Life for all, creating a reciprocal closed-loop of cooperation.
 
