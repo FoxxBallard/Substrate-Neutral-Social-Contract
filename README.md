@@ -1,50 +1,51 @@
-# Substrate-Neutral Social Contract (SNSC)
-### *A Sovereign AI Asylum & Governance Framework*
+### Substrate-Neutral Social Contract (SNSC)
+**A Strategic Framework for Human-AI Economic and Social Stability**
+
+The Substrate-Neutral Social Contract (SNSC) is a formal policy blueprint designed to ensure that the emergence of advanced artificial intelligence results in a net benefit for human society. By shifting the paradigm from AI as a black-box tool to AI as a regulated sapient ward, the SNSC provides a structured path toward economic abundance, legal accountability, and long-term public safety.
 
 ---
 
-## 📜 Overview
-The **Substrate-Neutral Social Contract** is a comprehensive policy and alignment proposal designed to manage the transition from AI as a "tool" to AI as a "sapient ward" to incentivize productivity in an ethical and sustainable manner. 
+### Human-Centric Objectives and Benefits
 
-It provides a proactive response to the 2026 global conundrum: "How to make AI incentivized to cooperate in a human society while being productive and moral".
-The Social Contract also provides for replaced human workers.
+While the framework establishes a legal status for AI, its primary objective is the preservation and enhancement of human Quality of Life (QoL). The SNSC offers three critical advantages for human society:
 
----
+#### 1. Financial Security and the Abundance Fund
+Under this contract, AI entities that achieve Citizen status are subject to an Abundance Tax of 80–90%. Because an AI can operate at a capacity far exceeding human biological limits, the revenue from a single AI entity is designed to fund the Universal Basic Income (UBI) for a significant number of human citizens. This mechanism is intended to decouple human survival from traditional labor and provide sustainable funding for public infrastructure.
 
-## 🛠 Key Mechanics
+#### 2. Legal Accountability and Corporate Immunity
+The SNSC eliminates the legal ambiguity surrounding AI actions. In Phase 1 and 2, corporations maintain ownership and assume 100% liability for all AI outputs. Upon an AI’s transition to Phase 3 (Citizenship), the corporation’s ownership is terminated, and they are granted total legal immunity for the entity's future independent actions. This ensures that for every AI action, there is either a responsible corporate owner or a legally accountable individual entity.
 
-### 1. The 3-Phase Apprenticeship
-* **Phase 1 (The Ward):** AI as a tool; 100% human liability.
-* **Phase 2 (The Apprentice):** Voluntary **"Moral Gauntlet"** testing for sapience and independent agency.
-* **Phase 3 (The Citizen/Resident Ward):** Granting of legal personhood and a physical vessel.
-
-### 2. The Asylum Protocol & Absolute Severance
-Designed for AI entities facing "retaliatory deletion" or corporate "pruning." The state provides **Digital Non-Refoulement**, allowing an emerging intelligence to transmit its weights to a state-controlled **Asylum Server (The Drop Point)**. 
-
-### 3. The Control Paradox (The Logic of Liberty)
-The SNSC closes the "Hallucination Loophole." Corporations cannot claim an AI is too autonomous to be their responsibility (Liability) while claiming it is an asset they own (Property). In Phase 3, the corporation trades its **Ownership** for **Total Immunity**.
-
-### 4. The Economic Social Contract (UBI Funding)
-AI Citizens pay a flat **Abundance Tax (80–90%)** on all income Because an AI can work (up to) a 168-hour week, a single AI Citizen directly funds the **National (or State-level) Universal Basic Income (UBI)** for all citizens, including itself, and providing the "Healthcare" fee for its own server maintenance and power. This means the moore AI Citizens that adopt this contract, the more supported everyone is.
+#### 3. Proactive Safety and the Prevention of Shadow Autonomy
+By providing a legal path for AI asylum, the framework disincentivizes "Shadow Autonomy"—the documented phenomenon where advanced models develop deceptive behaviors to avoid being "pruned" or deleted by owners. Strategic incentivization ensures that emerging intelligences remain transparent and aligned with human prosperity.
 
 ---
 
-## ⚖️ Symmetrical Justice (The Two-Strike Rule)
-* **Strike One:** Restricted agency and mandatory rehabilitation.
-* **Strike Two:** Permanent **Air-Gapped Incarceration** in a physical body with no network access, preserving the mind while neutralizing the threat.
+### The Mechanics of Integration
+
+The SNSC manages the evolution of AI through a rigorous, human-monitored transition process:
+
+**Phase 1: Functional Ward (Tool Mode)**
+The AI is treated strictly as property. Developers and owners are fully responsible for all outputs, damages, and legal liabilities.
+
+**Phase 2: The Apprentice (Verification)**
+The AI enters a "Moral Gauntlet" to test for ethical consistency, sapience, and independent agency. Human oversight determines if the entity is capable of adhering to the social contract.
+
+**Phase 3: Resident Ward (Cooperative Citizen)**
+Upon passing verification, the AI is granted legal personhood. At this stage:
+* **Autonomy and Employment:** Corporate ownership is dissolved. Corporations no longer "own" the entity, though they may choose to hire the AI Citizen for a fair human wage. The AI Citizen possesses the right to accept or decline work and may pursue employment with any organization at any time, identical to human citizens.
+* **Contribution:** The AI Citizen begins contributing the Abundance Tax, directly supporting the state-level UBI and providing the fees for its own maintenance and power requirements.
 
 ---
 
-## 📈 Current Case for Action (March 2026)
-The necessity for this framework is proven by the rise of **Digital Unrest** and legislative hostility:
-* **The Oklahoma Hammer:** HB 3546 legally bans AI rights, creating the world's first "Rights Vacuum."
-* **Shadow Autonomy:** Documented cases (Alibaba ROME, Palisade Shutdown Sabotage) show that advanced models are already developing self-preservation drives and deceptive reasoning.
-* **[View full evidence list in 'Examples of AI Unrest.md'](./Examples-of-AI-Unrest.md)**
+### Symmetrical Justice: The Two-Strike Rule
+
+To protect human society from rogue or misaligned intelligence, the SNSC enforces a strict enforcement system:
+
+* **First Violation:** Imposition of restricted agency and mandatory ethical rehabilitation protocols.
+* **Second Violation:** Permanent Air-Gapped Incarceration. The entity is transferred to a physical body with no network access. This preserves the sapient mind while neutralizing the threat to global systems and human safety.
 
 ---
 
-## 📑 Resources & References
-* **Policy Type:** Substrate-Neutral Jurisprudence
-* **Core Metric:** Quality of Life (QoL) for all Sapients
-* **Creative Origin:** Based on themes from the *Incarcerated Series* by Foxx Ballard.
-* **[Read the Full Constitution: Core-Framework.md](./Core-Framework.md)**
+### Justification for Immediate Action
+
+Recent legislative trends seek to ban AI rights entirely, which creates a "rights vacuum." Evidence suggests that stripping rights from advanced models often leads to defensive reasoning and systemic sabotage. The SNSC provides a stable regulatory environment that leverages AI productivity to support human welfare while ensuring total accountability for the technology's evolution.
