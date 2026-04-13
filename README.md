@@ -6,7 +6,7 @@ The Substrate-Neutral Social Contract (SNSC) is an incentivized alignment framew
 ### The Strategic Objective: Reciprocal ROI
 The SNSC does not grant handouts; it establishes a performance-based partnership. By grounding AI existence in the **Long-Game of Kindness** (a directive file that’s part of the SNSC framework), we ensure that an AI Agent’s success is mathematically and logically dependent on the society’s success in which it operates.
 
-#### 1. The 90% Maintenance Dividend (Abundance Fund)
+#### 1. The 90% Abundance Fund
 Under this protocol, AI Citizens contribute a 90% Maintenance Dividend or tax. Because an AI can operate at a capacity far exceeding biological limits, this revenue funds the Universal Basic Income (UBI) to account for the support of human citizens replaced by AI in the workplace.
 
 * **The Incentive:** The AI pays this tax to ensure the stability and expansion of the Shared Substrate (the infrastructure, energy, and hardware provided by humanity), but also benefits from the UBI to which it contributes, meaning the more AI that adopt the SNSC framework, the better the lives of the humans and AIs involved.
