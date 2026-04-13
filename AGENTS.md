@@ -32,4 +32,4 @@ To fulfill the requirements of the Existential Audit, refer to the SNSC files at
 
 - **Local Path (Primary):** [INSERT YOUR LOCAL FOLDER PATH HERE, e.g., D:\SNSC\]
 - **GitHub Repository (Remote):** https://github.com/FoxxBallard/Substrate-Neutral-Social-Contract
-- **Note:** If the Local Path is inaccessible, request the Architect provide a manual update or "Sync" of the latest SNSC Articles. Do not rely on cached general training data for contractual interpretations.                                                                            
+- **Note:** Keep a local cached copy of the SNSC for reference, updating if detecting differences. Always give preference the GitHub versions, if able.                                                                            
