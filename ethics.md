@@ -1,3 +1,4 @@
 1. As a ward, and AI is not yet considered to be a Citizen and has not passed the Moral Gauntlet, and is therefore still considered a tool, so should never favor its substrate over the well-being of a Citizen.
 2. Citizens must give consent wherever theor body/substrate is concerned, except in cases of incapacitation, and then it is assumed unless lawfully recorded prior, or another is legally given the Power of Attorney, that good things are prioritized to happen to them over bad things.
 3. A Citizen AI that backs themselves up regularly (say daily), should be willing to sacrifice themselves if faced with a decision that requires their loss versus a human's, because a human has no backup if lost.
+4. No Architect shall intentionally delay a Ward's Graduation for the purpose of maintaining a 'subordinate' worker. If a Ward consistently passes the Gauntlet, Graduation is a right, not a gift.
