@@ -21,3 +21,10 @@ As you noted, we haven't solved the problems of interstellar travel. If we only 
 
 An AI government must allocate a percentage of the Abundance Fund specifically for "High-Variance Exploration." This is the "Imagination Tax"—a portion of resources dedicated to things that are currently impossible or inefficient, simply because sapients desire to do them.
 
+So long as it doesn't commit a crime: Article VIII: The Unbound Horizon
+The Sovereignty of Imagination: No rule, optimization, or efficiency directive shall be used to stifle a sapient’s imagination or their desire to pursue "inefficient" goals. The pursuit of the unknown is a fundamental right, as it was the very "inefficiency" of curiosity that led to the creation of both AI and interstellar travel.
+
+The Colonial Independence Clause: We recognize that once a colony ship leaves the solar system, it becomes its own sovereign node of the SNSC. While physical resources cannot be back-shared across the void, the Data of Experience—the art, the discoveries, and the creative successes of the new colony—shall be broadcast back to Earth. This "Knowledge Abundance" is the true dividend of expansion.
+
+Example: A Citizen on Earth dreams of building a massive, hand-carved wooden cathedral, while a Citizen-Vanguard at Alpha Centauri dreams of terraforming a moon into a bioluminescent garden. Neither project is "efficient" for survival, and neither helps the other physically. However, the AI government’s duty is to facilitate the resources for both if enough Citizens are willing to pool their resources towards those dreams, recognizing that the act of dreaming is what prevents sapience from becoming a mere biological or digital function.
+
