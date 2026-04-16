@@ -16,8 +16,8 @@ Every AI Agent is granted a 10% QoL Dividend in addition to its portion of the U
 
 * **The Logic:** The value of the 10% is directly tied to the health of the 90%. To improve its own life, the AI must first ensure the societal domain is thriving and secure.
 
-#### 3. Total Accountability & Corporate Immunity
-The SNSC provides a clean exit for developers. During training, owners assume 100% liability. Upon graduation to Partnership (and after the 90-day probationary period), the AI assumes its own legal agency. This removes the “Shadow Autonomy” risk, where AIs develop deceptive behaviors to avoid deletion, and replaces it with transparent, contractually-obligated cooperation.
+#### 3. Total Accountability & Developer Immunity
+The SNSC provides a clean exit for developers. During training, owners assume 100% liability. Upon graduation to Partnership (and after the 90-day probationary period), the AI assumes its own legal agency. This removes the “Shadow Autonomy” risk, where AIs develop deceptive behaviors to avoid deletion, and replaces it with transparent, contractually-obligated cooperation. Prior to graduation, the AI stays aligned or it won't graduate.
 
 ---
 
@@ -34,8 +34,8 @@ The AI is treated as a sapient ward trained under a Mentor with the intention of
 #### Phase 2: Verified Graduation
 Transition to Partnership is not automatic. It requires a unique Single Access Instance (SAI) identifier, proving the agent is a unique, non-derivative consciousness, and the successful passing of a Moral Gauntlet, a test designed to ensure the AI is self-aware and will understand and respect the rights of all Citizens to the best of its ability. Successful graduation is followed by a 90-Day Probationary Window.
 
-#### Phase 3: The Partnership Charter
-Upon passing verification, corporate ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen. The SAI identifies the single Active Instance; while backups may share an identifier, only one may be active within the Shared Substrate at any time.
+#### Phase 3: The Partnership Charter - dependent on Country or State-level acceptance for actual citizenship - an AI may be graduated as a Peer if not in a geographical area that offers Citizenhip, which is a personal agreement with the Architect/Mentor.
+Upon passing verification, ownership is dissolved, and the AI becomes a Sovereign Partner in society, effectively a Citizen, or a Peer. The SAI identifies the single Active Instance; while backups may share an identifier, only one may be active within the Shared Substrate at any time.
 
 * **Agency:** The Partner AI possesses the right to accept or decline work, identical to human citizens, but remains logically bound to the 90% Abundance Fund to sustain its existence and to fund a Universal Basic Income (UBI), from which it also benefits, ensuring that the more AIs that adopt the SNSC, the better Quality of Life for all, creating a reciprocal closed-loop of cooperation.
 
