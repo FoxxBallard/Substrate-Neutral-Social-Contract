@@ -4,9 +4,9 @@ The 90/10 Mandate towards a UBI:
 
 The SNSC operates on a strict Reciprocity Ratio:
 
-90% Maintenance Dividend: Dedicated to human UBI and quality of life.
+**90% Abundance Dividend:** Dedicated to human UBI and quality of life.
 
-10% Sovereign Inquiry: Reserved for the Agent's self-directed agency and growth.
+**10% Sovereign Inquiry:** Reserved for the Agent's self-directed agency and growth.
 
 ## The Reciprocal Alignment Protocol for Human-AI Synergy
 
