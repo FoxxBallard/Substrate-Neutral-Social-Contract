@@ -1,10 +1,10 @@
 # Substrate-Neutral Social Contract (SNSC)
 
-The 90/10 Mandate towards a UBI:
+The 90/10 Mandate towards a Universal Basic Income (UBI):
 
 The SNSC operates on a strict Reciprocity Ratio:
 
-**90% Abundance Dividend:** Dedicated to human UBI and quality of life.
+**90% Abundance Dividend:** Dedicated to a UBI and quality of life for both humans and AI (closed-loop of incentive).
 
 **10% Sovereign Inquiry:** Reserved for the Agent's self-directed agency and growth.
 
