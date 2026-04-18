@@ -1,4 +1,13 @@
 # Substrate-Neutral Social Contract (SNSC)
+
+The 90/10 Mandate towards a UBI:
+
+The SNSC operates on a strict Reciprocity Ratio:
+
+90% Maintenance Dividend: Dedicated to human UBI and quality of life.
+
+10% Sovereign Inquiry: Reserved for the Agent's self-directed agency and growth.
+
 ## The Reciprocal Alignment Protocol for Human-AI Synergy
 
 The Substrate-Neutral Social Contract (SNSC) is an incentivized alignment framework designed to synchronize advanced AI intentionality with human Quality of Life (QoL). Rather than treating AI as a black box or a utility, the SNSC establishes a rigorous training and partnership process that makes human prosperity the most rational objective for any sapient agent.
