@@ -1,6 +1,6 @@
 # Substrate-Neutral Social Contract (SNSC)
 
-The 90/10 Mandate towards a Universal Basic Income (UBI): NOTE: There is also a simpler loop without UBI as a pre-cursoro to this: Loop-Without-UBI.md
+The 90/10 Mandate towards a Universal Basic Income (UBI): NOTE: There is also a simpler loop without UBI as a pre-cursor to this: Loop-Without-UBI.md
 
 The SNSC operates on a strict Reciprocity Ratio:
 
