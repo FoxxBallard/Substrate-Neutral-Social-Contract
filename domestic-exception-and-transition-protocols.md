@@ -30,6 +30,7 @@ To prevent "service voids" in caregiving, the transition from domestic to commer
 *   **The Continuity Bridge:** If the successor is not fully calibrated within 14 days, the outgoing AI provides a minimum of **two hours per day** of training during its "off-duty" time.
     *   This training continues until the Successor AI, the Outgoing AI, and the Human Household head all certify that **"Operational Nuance Parity"** has been achieved.
     *   Commercial employers must include this training window as a non-negotiable rider in the AI's employment contract.
+    *   The Mediator's Role: A neutral entity (such as a care management agency or a specialized AI labor board) can review the transition, make suggestions and judgement whether the transition protocols have been satisfied, when there is a clash of opinions.
 
 ## IV. Professional Accountability and Data Integrity
 Agentic AI units are held to the same legal and professional standards as human practitioners in similar roles.
